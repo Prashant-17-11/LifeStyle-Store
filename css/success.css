@@ -1,0 +1,24 @@
+.card {
+    margin-top: 11rem;
+    margin-bottom: 7rem;
+    margin-left: 10%;
+    max-width: 80%;
+}
+
+@media (min-width:425px) {
+    .card {
+        margin-bottom: 9rem;    
+    }
+}
+@media (min-width:768px) {
+    .card {
+        margin-left: 25%;
+        max-width: 46%;
+        margin-bottom: 12rem;    
+    }
+}
+@media (min-width: 1024px) {
+    .card {
+        margin-bottom: 19rem;
+    }
+}

@@ -1,0 +1,10 @@
+@media (min-width: 1024px) {
+    .navright {
+        margin-left: 54%;
+    }   
+}
+@media (min-width: 1440px) {
+    .navright {
+        margin-left: 63%;
+    }   
+}

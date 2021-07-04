@@ -1,0 +1,50 @@
+.navbar-dark .navbar-brand {
+    color: rgb(140,140,140);
+    font-weight: bold;
+}
+.navleft {
+    margin-left: 3%;
+}
+.navright {
+    margin-left: 74%;
+}
+@media (min-width: 320px) {
+    .navright {
+        margin-left: 23%;
+    }   
+}
+@media (min-width: 375px) {
+    .navright {
+        margin-left: 22%;
+    }   
+}
+
+@media (min-width: 425px) {
+    .navright {
+        margin-left: 44%;
+    }   
+}
+@media (min-width: 768px) {
+    .navright {
+        margin-left: 55%;
+    }   
+}
+@media (min-width: 1024px) {
+    .navright {
+        margin-left: 62%;
+    }   
+}
+@media (min-width: 1440px) {
+    .navright {
+        margin-left: 70%;
+    }   
+}
+
+footer {
+    padding: 10px 0px;
+    background-color: #101010;
+    color: #9d9d9d;
+    bottom: 0;
+    width: 100%;
+    text-align: center;
+}

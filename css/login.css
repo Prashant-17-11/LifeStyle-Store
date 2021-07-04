@@ -1,0 +1,15 @@
+.card {
+    margin-left: 6%;
+    margin-top: 7%;
+    margin-bottom: 7%;
+    max-width: 88%;
+}
+.card .card-footer {
+    margin-top: 5%;
+}
+@media (min-width: 768px) { 
+    .card {
+        margin-left: 30%;
+        max-width: 40%;
+    }
+}
